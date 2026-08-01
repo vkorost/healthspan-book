@@ -4,6 +4,8 @@ A graded survey of the healthspan and longevity field, drawn from ~8,900 videos 
 
 The editorial position is this: every empirical claim in the book traces to a specific speaker, on a specific podcast, on a specific date. Nothing factual was invented. Where the evidence is strong, the prose says so. Where it is thin, resting on one study or one speaker, the prose says that too. The book does not tell you what to take or what to do. It tells you what the field's most prominent voices actually said, and how much weight each claim can bear.
 
+[Video overview of the project](https://www.youtube.com/watch?v=ufu54TvTwok)
+
 ## Why this exists
 
 Health advice arrives attached to interests. A recommendation from someone who sells the supplement, runs the clinic, or has built an audience on a position is not worthless, but it cannot be taken at face value, and from the outside there is no clean way to separate the part that is evidence from the part that is inventory. Apply that suspicion one speaker at a time and you are left with nothing to read.
