@@ -61,12 +61,17 @@ The hosts are the entry points, not the full roster. Guests are cited on the sam
 
 Chapters are self-contained and can be read in any order. [`GLOSSARY.md`](./book/GLOSSARY.md) collects every bolded term with a short definition and the chapters where it appears.
 
+## Download
+
+- [**PDF**](https://github.com/vkorost/healthspan-book/releases/latest/download/Healthspan-Annotated.pdf) - for offline reading and print.
+- [**EPUB**](https://github.com/vkorost/healthspan-book/releases/latest/download/Healthspan-Annotated.epub) - for e-readers.
+
+Both are attached to the [latest release](https://github.com/vkorost/healthspan-book/releases/latest) and always point at the current revision. The book is corrected in place rather than re-versioned, so these links never go stale.
+
 ## What's in this repo
 
 - `README.md`: this file.
 - [`extraction-pipeline.md`](./extraction-pipeline.md): description of the four-stage extraction pipeline used to build the source corpus.
-- [`book/Healthspan-Annotated.pdf`](./book/Healthspan-Annotated.pdf): PDF for offline reading and print.
-- [`book/Healthspan-Annotated.epub`](./book/Healthspan-Annotated.epub): EPUB for e-readers.
 - [`book/chapters/`](./book/chapters/): the 16 chapters plus preface and voice note as individual Markdown files, with superscript endnote markers.
 - [`book/GLOSSARY.md`](./book/GLOSSARY.md): 105 specialized terms with definitions and chapter references.
 - [`book/ENDNOTES.md`](./book/ENDNOTES.md): 1,489 source citations organized by chapter.
@@ -99,4 +104,4 @@ This repository is published for personal reading only. See [LICENSE](./LICENSE)
 
 ---
 
-[![Healthspan, Annotated cover](./book/healthspan-book-cover.jpg)](./book/Healthspan-Annotated.pdf)
+[![Healthspan, Annotated cover](./book/healthspan-book-cover.jpg)](https://github.com/vkorost/healthspan-book/releases/latest/download/Healthspan-Annotated.pdf)
